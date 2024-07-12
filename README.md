@@ -19,7 +19,7 @@ const thanks = (to) => {
         <img src="https://img.shields.io/badge/-Karthik-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Karthik" />
     </a>
     <a href='devworld.karthik@gmail.com' target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/-GMail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="devworld.karthik@gmail.com" />
+        <img src="https://img.shields.io/badge/-GMail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="s54849713@gmail.com" />
     </a>
     <a href='https://twitter.com/@karthik_nasa7' target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/@karthik_nasa7" />
