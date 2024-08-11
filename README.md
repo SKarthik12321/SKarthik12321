@@ -63,91 +63,6 @@ me.say_hi()
 
 <hr>
 
-📊 My GitHub Stats:
-
-<p align="center">
-    <img
-        src="https://github-readme-stats-three-psi-99.vercel.app/api?username=SKarthik12321&show_icons=true&theme=radical&hide=prs,issues&count_private=true" 
-        alt="My GitHub Stats"
-    />
-</p>
-
-<hr>
-
-💾 My Mostly Used Languages:
-
-<p align="center">
-    <img
-        src="https://github-readme-stats-three-psi-99.vercel.app/api/top-langs/?username=SKarthik12321&layout=compact&hide=Jupyter%20Notebook,ejs&theme=radical&langs_count=8"
-        alt="My Mostly Used Languages"
-    />
-</p>
-
-<hr>
-
-📈 My GitHub Activity Graph:
-
-<p align="center">
-    <img 
-        src="https://readme-activity-graph.vercel.app/graph?username=SKarthik12321&theme=rogue&bg_color=141321&color=8accca&title_color=c03671&line=f1e05a&point=3178c5&radius=10&area=true&area_color=fdac54"
-        alt="GitHub Activity Graph"
-    />
-</p>
-
-<hr>
-
-🧑🏻‍💻 Profile Views:
-
-<p align="center">
-    <span style="display: inline-block; width: 150px;">
-        <img
-            src="https://komarev.com/ghpvc/?username=SKarthik12321&color=blueviolet" 
-            alt="Profile Views"
-        />
-    </span>
-</p>
-
-<hr>
-
-🏆 My GitHub Trophies:
-
-<p align="center">
-    <img
-        src="https://github-profile-trophy.vercel.app/?username=SKarthik12321&theme=onedark" 
-        alt="GitHub Trophy"
-    />
-</p>
-
-<hr>
-
-📅 My GitHub Contribution Activity:
-
-<p align="center">
-    <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=SKarthik12321&theme=dark"
-        alt="GitHub Contribution Activity"
-    />
-</p>
-
-<hr>
-
-<div align="center">
-    <a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="ReadMe Quotes" />
-    </a>
-</div>
-
-<hr>
-
-### 📊 GitHub Profile Summary Cards:
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SKarthik12321&theme=radical" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SKarthik12321&theme=radical" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SKarthik12321&theme=radical" />
-</p>
-
-<hr>
-
 <div align='center'>
 
 <h2>🛠️ My Favorite Tools</h2>
@@ -323,6 +238,91 @@ me.say_hi()
 </p>
 
 </div>
+
+<hr>
+
+📊 My GitHub Stats:
+
+<p align="center">
+    <img
+        src="https://github-readme-stats-three-psi-99.vercel.app/api?username=SKarthik12321&show_icons=true&theme=radical&hide=prs,issues&count_private=true" 
+        alt="My GitHub Stats"
+    />
+</p>
+
+<hr>
+
+💾 My Mostly Used Languages:
+
+<p align="center">
+    <img
+        src="https://github-readme-stats-three-psi-99.vercel.app/api/top-langs/?username=SKarthik12321&layout=compact&hide=Jupyter%20Notebook,ejs&theme=radical&langs_count=8"
+        alt="My Mostly Used Languages"
+    />
+</p>
+
+<hr>
+
+📈 My GitHub Activity Graph:
+
+<p align="center">
+    <img 
+        src="https://readme-activity-graph.vercel.app/graph?username=SKarthik12321&theme=rogue&bg_color=141321&color=8accca&title_color=c03671&line=f1e05a&point=3178c5&radius=10&area=true&area_color=fdac54"
+        alt="GitHub Activity Graph"
+    />
+</p>
+
+<hr>
+
+🧑🏻‍💻 Profile Views:
+
+<p align="center">
+    <span style="display: inline-block; width: 150px;">
+        <img
+            src="https://komarev.com/ghpvc/?username=SKarthik12321&color=blueviolet" 
+            alt="Profile Views"
+        />
+    </span>
+</p>
+
+<hr>
+
+🏆 My GitHub Trophies:
+
+<p align="center">
+    <img
+        src="https://github-profile-trophy.vercel.app/?username=SKarthik12321&theme=onedark" 
+        alt="GitHub Trophy"
+    />
+</p>
+
+<hr>
+
+📅 My GitHub Contribution Activity:
+
+<p align="center">
+    <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=SKarthik12321&theme=dark"
+        alt="GitHub Contribution Activity"
+    />
+</p>
+
+<hr>
+
+<div align="center">
+    <a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="ReadMe Quotes" />
+    </a>
+</div>
+
+<hr>
+
+### 📊 GitHub Profile Summary Cards:
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SKarthik12321&theme=radical" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SKarthik12321&theme=radical" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SKarthik12321&theme=radical" />
+</p>
 
 <hr>
 
