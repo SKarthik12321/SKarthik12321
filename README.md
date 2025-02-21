@@ -15,24 +15,23 @@ const thanks = (to) => {
 </div>
 
 <div align="center">
-    <a href='https://www.linkedin.com/in/skarthik357/' target="_blank" rel="noopener noreferrer">
+    <a href='https://www.linkedin.com/in/skarthik-in/' target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/-Karthik-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Karthik" />
     </a>
-    <a href='mailto:devworld.karthik@gmail.com' target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/-GMail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="devworld.karthik@gmail.com" />
-    </a>
-    <a href='https://twitter.com/@karthik_nasa7' target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/@karthik_nasa7" />
-    </a>
-    </a>
-    <a href='https://www.instagram.com/_karthik__nasa/' target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="https://www.instagram.com/_karthik__nasa/" />
-    </a>
-    <a href='https://www.hackerrank.com/profile/s54849713\' target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="https://www.hackerrank.com/profile/s54849713\" />
+    <a href='mailto:skarthik.link@gmail.com' target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/-GMail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="GMail" />
     </a>
     <a href='https://leetcode.com/u/s54849713/' target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="https://leetcode.com/u/s54849713/" />
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    </a>
+    <a href='https://www.hackerrank.com/profile/s54849713' target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
+    </a>
+    <a href='https://www.codechef.com/users/karthik_in' target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+    </a>
+    <a href='https://twitter.com/@karthik_nasa7' target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
     <br/>
     <br/>
@@ -107,9 +106,6 @@ me.say_hi()
         <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
     </a>
     <a href="#">
-        <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
-    </a>
-    <a href="#">
         <img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white">
     </a>
 </p>
@@ -136,9 +132,6 @@ me.say_hi()
         <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     </a>
     <a href="#">
-        <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-    </a>
-    <a href="#">
         <img alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
     </a>
     <a href="#">
@@ -155,9 +148,6 @@ me.say_hi()
     </a>
     <a href="#">
         <img alt="DJango" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-    </a>
-    <a href="#">
-        <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
     </a>
     <a href="#">
         <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
@@ -224,16 +214,10 @@ me.say_hi()
         <img alt="Chrome OS" src="https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white">
     </a>
     <a href="#">
-        <img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
-    </a>
-    <a href="#">
         <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     </a>
     <a href="#">
         <img alt="macOS Sierra" src="https://img.shields.io/badge/macOS%20Sierra-000000?style=for-the-badge&logo=apple&logoColor=white">
-    </a>
-    <a href="#">
-        <img alt="Solaris" src="https://img.shields.io/badge/Solaris-006699?style=for-the-badge&logo=oracle&logoColor=white">
     </a>
 </p>
 
