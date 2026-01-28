@@ -21,7 +21,7 @@ const thanks = (to) => {
     <a href='mailto:skarthik.link@gmail.com' target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/-GMail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="GMail" />
     </a>
-    <a href='https://leetcode.com/u/s54849713/' target="_blank" rel="noopener noreferrer">
+    <a href='https://leetcode.com/u/Karthik-in/' target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
     </a>
     <a href='https://www.hackerrank.com/profile/s54849713' target="_blank" rel="noopener noreferrer">
